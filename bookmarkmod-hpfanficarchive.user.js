@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name			Bookmark Mod - hpfanficarchive.com
-// @version			1.4.12
+// @version			1.5
 // @namespace		http://toswy.com/
 // @description		Changes the page title and description to make for easy bookmarking
 // @include			*hpfanficarchive.com/stories/viewstory.php?sid=*
-// @downloadURL		https://dl.dropboxusercontent.com/u/644563/bookmarkmod-hpfanficarchive.user.js
-// @updateURL		https://dl.dropboxusercontent.com/u/644563/bookmarkmod-hpfanficarchive.user.js
+// @downloadURL		https://github.com/gwhoppal/bookmarkmod-hpfanficarchive-userscript/raw/master/bookmarkmod-hpfanficarchive.user.js
+// @updateURL		https://github.com/gwhoppal/bookmarkmod-hpfanficarchive-userscript/raw/master/bookmarkmod-hpfanficarchive.user.js
 // ==/UserScript==
 
 /*! jQuery v2.1.4 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */
